@@ -5,7 +5,8 @@ require 'sinatra'
 require './partials.rb'
 #require 'digest/sha1'
 # require 'rack-flash'
-
+gem 'emk-sinatra-url-for'
+require 'sinatra/url_for'
 enable :sessions
 
 #ActiveRecord::Base.include_root_in_json = false
