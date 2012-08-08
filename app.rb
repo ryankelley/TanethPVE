@@ -60,7 +60,7 @@ helpers Sinatra::Partials
 
 
 #get main page
-get '/ ?' do
+get '/' do
 	erb :index
 end
 
