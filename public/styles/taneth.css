@@ -1,0 +1,6 @@
+.texture { background-image:url('images/terrain.png')}
+
+.sbrick { background-position: -384px -192px; }
+.stone { background-position: -64px 0px; }
+.gpane { background-position: -64px -192px; }
+.bwool { background-position: -64px -704px; }

@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+  <HEAD> 
+<META HTTP-EQUIV="refresh" content="0;URL=http://www.new.com/new.htm"> 
+<META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
+<TITLE>Page has moved</TITLE> 
+</HEAD> 
+
+  <body>
+<<<<<<< HEAD
+
+    <div class="navbar navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container">
+          <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </a>
+          <a class="brand" href="#">Taneth</a>
+          <div class="nav-collapse">
+            <ul class="nav">
+              <li class="active"><a href="#">Home</a></li>
+              <li><a href="Castle.html">Castle</a></li>
+              <li><a href="Farm.html">Farms</a></li>
+            </ul>
+          </div><!--/.nav-collapse -->
+        </div>
+      </div>
+    </div>
+
+    <div class="container">
+
+      <h1>Welcome to Taneth</h1>
+      <p>This is the build guide for the awesome mega-build Taneth on the Reddit PVE Server.</p>
+	  <h2>Taneth History</h2>
+	  <p>All Taneth Lore still needs to be fleshed out</p>
+
+	  <br/>
+	  
+	  <h2>Task List</h2>
+	  
+	  <ol>
+		<li>Get on Mumble!</li>
+		<li>Find Location for Castle - Ideally a Hills Biome so we can put castle on Hill</li>
+		<li>Build Mine Entrance and Storage/Smelting Room</li>
+		<li>Layout Castle Foundation using Stone Bricks</li>
+		<li>Figure Rough plan for roads and bridges out of main castle</li>
+		<li>Start laying out Farms</li>
+		<li>Once Castle is done - layout plots for buildings in the city</li>
+	  </ol>
+	  
+	  <h3>Texture Pack</h3>
+	  <p>For the most part we are all using <a href="http://bdcraft.net">Sphax PureBDCraft</a> You should Get it NOW!</p>
+	  <p>Note: We are also using the textures from Sphax PureBDCraft on this site in our blueprints, that's how much we love this texture pack.</p>
+    </div> <!-- /container -->
+
+    <!-- Le javascript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="js/jquery.js"></script>
+    <script src="js/bootstrap-transition.js"></script>
+    <script src="js/bootstrap-alert.js"></script>
+    <script src="js/bootstrap-modal.js"></script>
+    <script src="js/bootstrap-dropdown.js"></script>
+    <script src="js/bootstrap-scrollspy.js"></script>
+    <script src="js/bootstrap-tab.js"></script>
+    <script src="js/bootstrap-tooltip.js"></script>
+    <script src="js/bootstrap-popover.js"></script>
+    <script src="js/bootstrap-button.js"></script>
+    <script src="js/bootstrap-collapse.js"></script>
+    <script src="js/bootstrap-carousel.js"></script>
+    <script src="js/bootstrap-typeahead.js"></script>
+
+=======
+		Page has moved to: <a href="../tanethpve">tanethpve</p>
+>>>>>>> bb29c4411624c25750ac9c071014b5344f1ce318
+  </body>
+</html>

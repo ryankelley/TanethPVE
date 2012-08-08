@@ -64,7 +64,9 @@ get '/' do
 	erb :index
 end
 
-
+get '/players' do
+	erb :players, :layout => :layout_blueprint
+end
 
 get '/castle' do
 	erb :castle, :layout => :layout_blueprint
