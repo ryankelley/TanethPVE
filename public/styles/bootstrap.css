@@ -5089,3 +5089,4 @@ a.badge:hover {
     margin: 0 auto;
     padding: 0 1px;
   }
+ p.normal { font-size: 13px; line-height: 18px; }
