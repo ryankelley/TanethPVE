@@ -1,3 +1,20 @@
 emptyafternoon - wants island plot
 
+Regions
+tanetha1 - emptyafternoon
+taneth_treefarm - Tree Farm
+taneth_pve - pve ground
+
 /cmodify gahr hammer1978 BuddyJ calebbriggs9 ShaneTheKing durzza nitrogenatom94
+
+116 top of first arch
+
+10, 4, 3, 2, 1, 2, 3, 
+
+-593 - 395
+
+-1177 - `67
+'
+
+Bottom Protection  -1294, 41, -680
+Top: -1072, 255, -496
